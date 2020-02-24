@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://nplkhn.github.io/rsschool-cv/cv
